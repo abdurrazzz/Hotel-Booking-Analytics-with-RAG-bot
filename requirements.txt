@@ -1,0 +1,15 @@
+pandas==2.0.3
+numpy==1.24.4
+matplotlib==3.7.2
+seaborn==0.12.2
+fastapi==0.103.1
+uvicorn==0.23.2
+pydantic==2.3.0
+python-multipart==0.0.6
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
+langchain==0.0.267
+langchain-community==0.0.16
+huggingface-hub==0.17.3
+transformers==4.33.2
+kaggle==1.5.16
